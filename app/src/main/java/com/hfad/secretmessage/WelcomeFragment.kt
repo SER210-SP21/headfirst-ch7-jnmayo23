@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
 import androidx.navigation.findNavController
+import edu.quinnipiac.ser210.ls03_nav_demo.R
 
 class WelcomeFragment : Fragment() {
 
