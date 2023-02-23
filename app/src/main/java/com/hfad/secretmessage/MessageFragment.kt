@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.EditText
 import androidx.navigation.findNavController
-import edu.quinnipiac.ser210.ls03_nav_demo.R
+import com.hfad.secretmessage.R
 
 class MessageFragment : Fragment() {
 

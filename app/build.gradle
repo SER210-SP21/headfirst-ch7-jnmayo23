@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'edu.quinnipiac.ser210.ls03_nav_demo'
+    namespace 'com.hfad.secretmessage'
     compileSdk 33
 
     defaultConfig {
-        applicationId "edu.quinnipiac.ser210.ls03_nav_demo"
+        applicationId "com.hfad.secretmessage"
         minSdk 30
         targetSdk 33
         versionCode 1
